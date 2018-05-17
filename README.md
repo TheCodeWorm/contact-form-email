@@ -1,1 +1,2 @@
-# contact-form-email
+# contact-form-email template
+using sendmail with PHP
